@@ -29,3 +29,4 @@ class Example extends Component {
 
  © [](https://github.com/)
 "# my-component" 
+"# my-component" 
